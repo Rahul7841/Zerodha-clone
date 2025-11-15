@@ -1,9 +1,50 @@
-import React from 'react';
+import React from "react";
 
 function Universe() {
-    return ( 
-        <h1>Universe</h1>
-     );
+  return (
+    <div className="container mt-5 mb-5">
+      <div className="row text-center">
+        <h1>The Zerodha Universe</h1>
+        <p>
+          Extend your trading and investment experience even further with our
+          partner platforms
+        </p>
+        
+        <div className="col-4 p-3 mt-5">
+          <img src="media/images/smallcase.png" />
+          <p className="text-small text-muted">text is here</p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/images/smallcase.png" />
+          <p className="text-small text-muted">text is here</p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/images/smallcase.png" />
+          <p className="text-small text-muted">text is here</p>
+        </div>
+
+        <div className="col-4 p-3 mt-5">
+          <img src="media/images/smallcase.png" />
+          <p className="text-small text-muted">text is here</p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/images/smallcase.png" />
+          <p className="text-small text-muted">text is here</p>
+        </div>
+        <div className="col-4 p-3 mt-5">
+          <img src="media/images/smallcase.png" />
+          <p className="text-small text-muted">text is here</p>
+        </div>
+        <button
+          className="p-2 btn btn-primary fs-5 mt-5 mb-5"
+          style={{ width: "20%", margin: "0 auto" }}
+        >
+          Signup now
+        </button>
+      </div>
+
+    </div>
+  );
 }
 
 export default Universe;

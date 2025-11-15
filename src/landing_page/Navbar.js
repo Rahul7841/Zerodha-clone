@@ -37,8 +37,8 @@ function Navbar() {
                 </Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-link active" to={"/products"}>
-                  Product
+                <Link class="nav-link active" to={"/product"}>
+                  Products
                 </Link>
               </li>
 

@@ -16,43 +16,43 @@ function Footer() {
 
           <div className="col">
             <p>Company</p>
-            <a href="">About</a>
+            <a href="" style={{textDecoration:"none"}}>About</a>
             <br />
-            <a href="">Products</a>
+            <a href=""style={{textDecoration:"none"}}>Products</a>
             <br />
-            <a href="">Pricing</a>
+            <a href="" style={{textDecoration:"none"}}>Pricing</a>
             <br />
-            <a href="">Referral programming</a>
+            <a href="" style={{textDecoration:"none"}}>Referral programming</a>
             <br />
-            <a href="">Careers</a>
+            <a href="" style={{textDecoration:"none"}}>Careers</a>
             <br />
-            <a href="">Zerodha.tech</a>
+            <a href="" style={{textDecoration:"none"}}>Zerodha.tech</a>
             <br />
-            <a href="">Press & Media</a>
+            <a href="" style={{textDecoration:"none"}}>Press & Media</a>
             <br />
-            <a href="">Zerodha Cares (CSR)</a>
+            <a href="" style={{textDecoration:"none"}}>Zerodha Cares (CSR)</a>
             <br />
           </div>
           <div className="col">
             <p>Support</p>
-            <a href="">Contact</a>
+            <a href="" style={{textDecoration:"none"}}>Contact</a>
             <br />
-            <a href="">support portals</a>
+            <a href="" style={{textDecoration:"none"}}>support portals</a>
             <br />
-            <a href="">Z-connect blog</a>
+            <a href="" style={{textDecoration:"none"}}>Z-connect blog</a>
             <br />
-            <a href="">List of charges</a>
+            <a href="" style={{textDecoration:"none"}}>List of charges</a>
             <br />
-            <a href="">Download & resources</a>
+            <a href="" style={{textDecoration:"none"}}>Download & resources</a>
             <br />
           </div>
           <div className="col">
             <p>Account</p>
-            <a href="">Open an account</a>
+            <a href="" style={{textDecoration:"none"}}>Open an account</a>
             <br />
-            <a href="">Fund transfer</a>
+            <a href="" style={{textDecoration:"none"}}>Fund transfer</a>
             <br />
-            <a href="">60 day challenge</a>
+            <a href="" style={{textDecoration:"none"}}>60 day challenge</a>
             <br />
           </div>
         </div>
