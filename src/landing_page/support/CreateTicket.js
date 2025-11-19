@@ -12,21 +12,54 @@ function CreateTicket() {
           <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
             Account Opening
           </h5>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a><br/>
         </div>
 
          <div className="col-4 p-5 mt-2 ">
           <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
             Account Opening
           </h5>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a><br/>
+        </div>
+
+         <div className="col-4 p-5 mt-2">
+          <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
+            Account Opening
+          </h5>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a><br/>
+        </div>
+         <div className="col-4 p-5 mt-2 ">
+          <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
+            Account Opening
+          </h5>
           <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a>
+          <br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a><br/>
+        </div>
+
+         <div className="col-4 p-5 mt-2 ">
+          <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
+            Account Opening
+          </h5>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a><br/>
           <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a>
         </div>
 
@@ -34,43 +67,11 @@ function CreateTicket() {
           <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
             Account Opening
           </h5>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a>
-        </div>
-         <div className="col-4 p-5 mt-2 ">
-          <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
-            Account Opening
-          </h5>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a>
-        </div>
-
-         <div className="col-4 p-5 mt-2 ">
-          <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
-            Account Opening
-          </h5>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a>
-        </div>
-
-         <div className="col-4 p-5 mt-2">
-          <h5 ><i class="fa fa-plus-circle" aria-hidden="true"></i>
-            Account Opening
-          </h5>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a>
-          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track account opening </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Track segment activation </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Intraday margins </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Kite user manual </a><br/>
+          <a href="" style={{textDecoration:"none", lineHeight:"2.5"}}>Learn how to create a ticket </a><br/>
         </div>
       </div>
     </div>
